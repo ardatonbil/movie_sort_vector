@@ -1,0 +1,3 @@
+C:/Users/ardat/Desktop/movie_sorting/cmake-build-debug/CMakeFiles/movie_sorting.dir
+C:/Users/ardat/Desktop/movie_sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ardat/Desktop/movie_sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
